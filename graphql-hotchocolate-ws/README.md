@@ -1,7 +1,9 @@
-# GraphQL HotChocolate Workshop using .NET 6
+# GraphQL HotChocolate Workshop in .NET 6
 
-* https://github.com/ChilliCream/graphql-workshop
-* https://workshop.chillicream.com/graphql/
+* ASP.NET Core .NET 6 GraphQL server example
+* HotChocolate Workshop sample app translated to .NET 6
+  - https://github.com/ChilliCream/graphql-workshop
+  - https://workshop.chillicream.com/graphql/
 
 ## Sessions
 

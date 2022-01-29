@@ -1,7 +1,8 @@
-# GraphQL HotChocolate .NET 6 Get Started
+# GraphQL HotChocolate Get Started in .NET 6
 
-* Get Started HotChocolate GraphQL Server by .NET 6 ASP.NET Core
-* https://chillicream.com/docs/hotchocolate/get-started
+* ASP.NET Core .NET 6 GraphQL server example
+* HotChocolate Get Started sample app translated to .NET 6
+  - https://chillicream.com/docs/hotchocolate/get-started
 
 ## Create ASP.NET Core Web Project
 
